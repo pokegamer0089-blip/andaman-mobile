@@ -10,7 +10,8 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.karl2.andamanmobile"
+      "bundleIdentifier": "com.karl2.andamanmobile",
+      "entitlements": {}
     },
     "android": {
       "adaptiveIcon": {
